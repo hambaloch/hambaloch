@@ -73,8 +73,10 @@ Building SaaS & AI solutions in Lahore, Pakistan 🇵🇰
 ---
 
 ## 📊 GitHub Stats
-![Hamad's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamadrakshani&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamadrakshani&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hamadrakshani&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamadrakshani&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
 
 ---
 
@@ -88,7 +90,7 @@ Building SaaS & AI solutions in Lahore, Pakistan 🇵🇰
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/hamadrakshani)  
-[![Email](https://img.shields.io/badge/Email-hamadrakshani@example.com-red)](mailto:hamadrakshani@example.com)  
+[![Email](https://img.shields.io/badge/Email-rakshanihamad@gmail.com-red)](mailto:rakshanihamad@gmail.com)  
 
 ---
 
