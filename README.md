@@ -74,7 +74,8 @@ Building SaaS & AI solutions in Lahore, Pakistan 🇵🇰
 
  ## 📊 GitHub Stats
 <div align="center">
-  ![hambaloch's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hambaloch&theme=vue-dark&hide_border=true)
+  <img src="https://github-readme-stats.vercel.app/api?username=hambaloch&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hambaloch&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 
