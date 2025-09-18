@@ -72,13 +72,12 @@ Building SaaS & AI solutions in Lahore, Pakistan 🇵🇰
 
 ---
 
-<!-- ## 📊 GitHub Stats
+ ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hambaloch&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hambaloch&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  ![hambaloch's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hambaloch&theme=vue-dark&hide_border=true)
 </div>
 
---- -->
+
 
 ## 🌱 Currently Exploring
 - 🤖 AI Agents for SaaS & CRM systems  
