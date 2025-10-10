@@ -88,7 +88,7 @@ Building SaaS & AI solutions in Lahore, Pakistan 🇵🇰
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/hamadrakshani)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/hamad-rakshani)  
 [![Email](https://img.shields.io/badge/Email-rakshanihamad@gmail.com-red)](mailto:rakshanihamad@gmail.com)  
 
 ---
