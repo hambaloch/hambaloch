@@ -1,6 +1,6 @@
 # Hi, I'm Hamad Rakhshani 👋
 
-### 🚀 CTO & Co-Founder @ [Kode X Labs](https://kodexlabs.com)  
+### 🚀 Senior Full-Stack Engineer [Portfolio](https://kodexlabs.com)  
 Building SaaS & AI solutions in Lahore, Pakistan 🇵🇰
 
 ---
