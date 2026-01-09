@@ -1,6 +1,6 @@
 # Hi, I'm Hamad Rakhshani 👋
 
-### 🚀 Senior Full-Stack Engineer [Portfolio](https://kodexlabs.com)  
+### 🚀 Senior Full-Stack Engineer | [Portfolio](https://kodexlabs.com)  
 Building SaaS & AI solutions in Lahore, Pakistan 🇵🇰
 
 ---
@@ -24,8 +24,8 @@ Building SaaS & AI solutions in Lahore, Pakistan 🇵🇰
 ## 🚀 The Journey So Far
 
 ### 🎯 **Current Chapter: Building the Future**
-**CTO & Co-Founder** @ [Kode X Labs](https://kodexlabs.com)  
-*April 2025 - Present* | Lahore, Pakistan 🇵🇰  
+**Independent Consultancy** 
+*April 2025 - Present* | Remote
 *Doing what I love most - building new stuff everyday* ✨
 
 ---
