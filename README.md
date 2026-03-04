@@ -72,10 +72,10 @@ Building SaaS & AI solutions in Lahore, Pakistan 🇵🇰
 
 ---
 
- <!-- ## 📊 GitHub Stats
+  ## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hambaloch&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-</div> -->
+</div>
 
 
 
@@ -86,6 +86,8 @@ Building SaaS & AI solutions in Lahore, Pakistan 🇵🇰
 - 💼 Expanding Kode X Labs into global SaaS markets  
 
 ---
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,react,nextjs,angular,typescript,postgres,azure,aws,firebase,supabase)](https://skillicons.dev)
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/hamad-rakshani)  
