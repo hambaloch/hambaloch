@@ -89,10 +89,10 @@ Building SaaS & AI solutions in Lahore, Pakistan 🇵🇰
 
 ---
 
-## 📊 Language Distribution
+<!--## 📊 Language Distribution
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hambaloch&layout=compact&theme=dark)
 
----
+--- -->
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/hamad-rakshani)  
