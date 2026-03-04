@@ -18,6 +18,7 @@ Building SaaS & AI solutions in Lahore, Pakistan 🇵🇰
 **Frontend:** Angular, React, Next.js, SwiftUI, Kotlin/Android, React Native (Expo)  
 **Cloud & DevOps:** Azure, Render, Firebase, Supabase, Neon  
 **Other:** Twilio, LangChain, OpenAI APIs, Square/Clover POS  
+
 [![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,react,nextjs,angular,typescript,postgres,azure,aws,firebase,supabase)](https://skillicons.dev)
 
 ---
@@ -87,10 +88,9 @@ Building SaaS & AI solutions in Lahore, Pakistan 🇵🇰
 - 💼 Expanding Kode X Labs into global SaaS markets  
 
 ---
+
 ## 📊 Language Distribution
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hambaloch&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hambaloch&layout=compact&theme=dark)
 
 ---
 
