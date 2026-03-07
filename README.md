@@ -1,6 +1,6 @@
 # Hi, I'm Hamad Rakhshani 👋
 
-### 🚀 Senior Full-Stack Engineer | [Portfolio](https://kodexlabs.com)  
+### 🚀 Senior Full-Stack Engineer
 Building SaaS & AI solutions in Lahore, Pakistan 🇵🇰
 
 ---
