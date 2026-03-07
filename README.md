@@ -70,7 +70,7 @@ Building SaaS & AI solutions in Lahore, Pakistan 🇵🇰
 - 🔹 **Real-Estate AI/MLS Leads** – Lead pipelines, rehab calculators, investor workflows  
 - 🔹 **Sportswriters** – SaaS for sports journalists & fans (articles + stats)  
 - 🔹 **Cricket Stats App (Dream Project)** – Predictive stats & Ashes 2025 focus  
-- 🔹 **Kode X Labs Portfolio** – SaaS & AI products powering startups globally  
+- 🔹 ** Portfolio** – SaaS & AI products powering startups globally  
 
 ---
 
@@ -85,7 +85,7 @@ Building SaaS & AI solutions in Lahore, Pakistan 🇵🇰
 - 🤖 AI Agents for SaaS & CRM systems  
 - 📊 Sports analytics & predictive modeling  
 - 🎨 Fusion clothing brand ideas  
-- 💼 Expanding Kode X Labs into global SaaS markets  
+- 💼 Expanding into global SaaS markets  
 
 ---
 
