@@ -6,7 +6,7 @@ Building SaaS & AI solutions in Lahore, Pakistan 🇵🇰
 ---
 
 ## 🧑‍💻 About Me
-- 🔭 Leading multiple teams at **Kode X Labs** across SaaS, AI, and mobile app products  
+- 🔭 Leading multiple teams across SaaS, AI, and mobile app products  
 - 💡 Passionate about **AI Agents, SaaS platforms, sports analytics, and real estate tech**  
 - 🏏 Cricketer & swimmer outside of code
 - ✍️ Occasionally writing articles on **tech, society, and innovation**  
